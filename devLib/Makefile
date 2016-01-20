@@ -130,3 +130,4 @@ lcd128x64.o: font.h lcd128x64.h
 lcd.o: lcd.h
 piGlow.o: piGlow.h
 tcs34725.o: tcs34725.h
+pcd8544.o: pcd8544.h
